@@ -1,0 +1,10 @@
+body{
+    background-color: blue;
+    border: solid;
+    border-color: chocolate;
+    border-width: 3px;
+}
+p{
+    color: red;
+    font-family: monospace;
+}
